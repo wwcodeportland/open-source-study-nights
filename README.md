@@ -1,11 +1,11 @@
 # Welcome to Women Who Code PDX's :zap: Open Source Study Nights
 
-We meet monthly every third Thursday in [downtown Portland](https://github.com/fullstackla/pairing-meetup#city_sunset-how-do-i-get-to-the-downtown-la-meetup). Come pair program with us on open source projects! You can read about how we got started here: [origins](https://github.com/fullstackla/pairing-meetup/blob/master/ORIGINS.md) and our [acknowledgments](https://github.com/fullstackla/pairing-meetup/blob/master/THANKS.md) to all of our sponsors. 
+We meet monthly every third Thursday in [downtown Portland](https://www.meetup.com/Women-Who-Code-Portland). Come program with us on open source projects! 
 
 Check out our latest :fork_and_knife: [pull requests](https://github.com/wwcodeportland/open-source-study-nights/pulls).
 
 You'll work to:
-- Report :bug: [report bugs and issues](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#bug-reports) 
+- Report :bug: [bugs and issues](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#bug-reports) 
 - Fork a project and use it locally
 - Read, follow and improve documentation
 - Write [commit messages](https://gist.github.com/stephenparish/9941e89d80e2bc58a153) for changes made
@@ -25,7 +25,7 @@ Check out our latest meetup RSVP information here: https://www.meetup.com/Women-
 5. **Check out the Past Meetup Notes**: All of our previous events' ⚡ 📻 Nightly Notes are archived here: https://github.com/wwcodeportland/open-source-study-nights/issues?utf8=%E2%9C%93&q=label%3Astudy-night-notes+ 
 
 ## :city_sunset: How do I get to the downtown meetup?
-- **Address:** --- Portland, OR, 97210
+- **Address:** InVision: 111 SW 5th Ave, 36th Floor, Portland, OR, 97210
 - **Nearest MAX station:** Red or Blue Line - Pioneer Square Station
 - **Parking:** Parking is a challenge in downtown. We recommend the MAX, streetcar, carpool and voracious free parking-spot hunting.
 - Thank you to our location sponsor [InVision](https://invisionapp.com)
@@ -40,11 +40,11 @@ For project ideas: [Check out our resources page.](./docs/project-ideas.md)
 
 ## :zap: Open Source projects we have contributed to at the meetup:
 
-| [Exercism](https://github.com/exercism/exercism.io)  | [Hoodie](https://github.com/hoodiehq/) |  [Homebrew](https://github.com/homebrew) | Pivotal: |
-| ------------- | ------------- |------------- |------------- |
-| [![Exercism][exercism-logo]](http://exercism.io)  | [![Hoodie][hoodie-logo]](http://hood.ie)  | [![Homebrew][brew-logo]](http://brew.sh/)  | - [Parrit](https://github.com/Pinwheeler/Parrit) `JavaScript` - [Concourse](https://github.com/concourse/concourse) `Go` |
-| `Ruby` `Sinatra`  | `JavaScript` | `Ruby`  |  |
-| [Start here](https://github.com/exercism/exercism.io#contributing-to-exercism)  | [Start here](https://github.com/hoodiehq/camp/issues) | [Start here](https://github.com/Homebrew/brew/blob/master/CONTRIBUTING.md)  | |
+| [Exercism](https://github.com/exercism/exercism.io)  | [Hoodie](https://github.com/hoodiehq/) |  [Homebrew](https://github.com/homebrew) |
+| ------------- | ------------- |------------- |
+| [![Exercism][exercism-logo]](http://exercism.io)  | [![Hoodie][hoodie-logo]](http://hood.ie)  | [![Homebrew][brew-logo]](http://brew.sh/)  |
+| `Ruby` `Sinatra`  | `JavaScript` | `Ruby`  |
+| [Start here](https://github.com/exercism/exercism.io#contributing-to-exercism)  | [Start here](https://github.com/hoodiehq/camp/issues) | [Start here](https://github.com/Homebrew/brew/blob/master/CONTRIBUTING.md)  |
 
 [exercism-logo]: https://avatars2.githubusercontent.com/u/5624255?v=3&s=200
 [hoodie-logo]: https://avatars1.githubusercontent.com/u/1888826?v=3&s=200
