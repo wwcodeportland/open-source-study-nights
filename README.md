@@ -1,4 +1,4 @@
-# Welcome to Women Who Code PDX's :zap: Open Source Study Nights
+# Welcome to WWC PDX's :zap: Open Source Study Nights
 
 We meet monthly every third Thursday in [downtown Portland](https://www.meetup.com/Women-Who-Code-Portland). Come program with us on open source projects! 
 
@@ -22,21 +22,18 @@ Check out our latest meetup RSVP information here: https://www.meetup.com/Women-
 2. **GitHub**: Make a GitHub account and install `git`.
 3. **Code of Conduct**: Read our [Code of Conduct](https://github.com/WomenWhoCode/guidelines-resources/blob/master/code_of_conduct.md)
 4. **RSVP & Logistics**: RSVP on [Meetup.com](https://www.meetup.com/Women-Who-Code-Portland) to get the latest updates on the meetup location (parking, Metro access) and all those logistical details.
-5. **Check out the Past Meetup Notes**: All of our previous events' ⚡ 📻 Nightly Notes are archived here: https://github.com/wwcodeportland/open-source-study-nights/issues?utf8=%E2%9C%93&q=label%3Astudy-night-notes+ 
+<!-- 5. **Check out the Past Meetup Notes**: All of our previous events' ⚡ 📻 Nightly Notes are archived here: https://github.com/wwcodeportland/open-source-study-nights/issues?utf8=%E2%9C%93&q=label%3Astudy-night-notes+  -->
 
 ## :city_sunset: How do I get to the downtown meetup?
 - **Address:** InVision: 111 SW 5th Ave, 36th Floor, Portland, OR, 97210
 - **Nearest MAX station:** Red or Blue Line - Pioneer Square Station
 - **Parking:** Parking is a challenge in downtown. We recommend the MAX, streetcar, carpool and voracious free parking-spot hunting.
-- Thank you to our location sponsor [InVision](https://invisionapp.com)
+- Thank you to our location sponsor, [InVision](https://invisionapp.com)!
 
 ## :computer: First time? Begin here:
-
-For your first Pull Request @ WWC PDX: (Coming Soon)
-
-For coding puzzles: Join our Exercism team: (Coming Soon)
-
-For project ideas: [Check out our resources page.](./docs/project-ideas.md)
+* For your first Pull Request @ WWC PDX: (Coming Soon)
+* For coding puzzles: Join our Exercism team: (Coming Soon)
+* For project ideas: [Check out our resources page.](./docs/project-ideas.md)
 
 ## :zap: Open Source projects we have contributed to at the meetup:
 
@@ -92,18 +89,6 @@ For project ideas: [Check out our resources page.](./docs/project-ideas.md)
     </tbody>
 </table>
 
-## :zap: Just for fun, and fun is important:
-<table>
-    <thead>
-        <tr><th>Project</th><th>Language</th></tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://github.com/searls/emoruby">emoruby</a></td>
-            <td>:gem:, Ruby, emoji</td>
-        </tr>
-    </tbody>
-</table>
 
 ## :raised_hands: Help!
 1. When you are stuck on code: Make an issue on what you‘re stuck on here - https://github.com/wwcodeportland/open-source-study-nights/issues
