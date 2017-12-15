@@ -110,3 +110,5 @@ For project ideas: [Check out our resources page.](./docs/project-ideas.md)
 2. When you are lost, on your way and stuck in traffic and need to let someone know about something, left something at the venue, confused about parking, leave a comment on the https://www.meetup.com/Women-Who-Code-Portland event invite for that night or message Keeley on Twitter [@keeleyhammmond](https://twitter.com/keeleyhammond).
 3. When you have questions/concerns about code of conduct, things like that, talk to Keeley or Alex by messaging them on Meetup.com.
 
+## :pray: Thanks
+Many thanks to our friends at FullStack LA for letting us use this as a template for our open source study nights!
