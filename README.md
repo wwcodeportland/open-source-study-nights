@@ -7,8 +7,8 @@ What will you do?:
 - Fork a project and use it locally
 - Read, follow and improve documentation
 - Write [commit messages](https://gist.github.com/stephenparish/9941e89d80e2bc58a153) for changes made
-- Run [tests and write tests](https://github.com/hoodiehq/hoodie/blob/master/CODING_STYLE.md#client)
-- Work with common development tools like: continuous integration, [linters and style guides](https://github.com/hoodiehq/hoodie/blob/master/CODING_STYLE.md)
+- Run [tests and write tests](https://github.com/hoodiehq/hoodie/blob/master/docs/developers/CODING_STYLE.rst#client)
+- Work with common development tools like: continuous integration, [linters and style guides](https://github.com/hoodiehq/hoodie/blob/master/docs/developers/CODING_STYLE.rst)
 - Resolving problems with processes like [merge conflicts, squash commits, communicating with maintainers,](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#maintainers) and [triaging](https://github.com/hoodiehq/hoodie/blob/master/TRIAGING.md)
 - Push and write [pull requests](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#pull-requests)
 
