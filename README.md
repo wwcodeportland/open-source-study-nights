@@ -2,29 +2,27 @@
 
 We meet monthly every third Thursday in [downtown Portland](https://www.meetup.com/Women-Who-Code-Portland). Come program with us on open source projects! 
 
-Check out our latest :fork_and_knife: [pull requests](https://github.com/wwcodeportland/open-source-study-nights/pulls).
-
-You'll work to:
-- Report :bug: [bugs and issues](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#bug-reports) 
+What will you do?:
+- Report [bugs and issues](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#bug-reports) :bug: 
 - Fork a project and use it locally
 - Read, follow and improve documentation
 - Write [commit messages](https://gist.github.com/stephenparish/9941e89d80e2bc58a153) for changes made
 - Run [tests and write tests](https://github.com/hoodiehq/hoodie/blob/master/CODING_STYLE.md#client)
 - Work with common development tools like: continuous integration, [linters and style guides](https://github.com/hoodiehq/hoodie/blob/master/CODING_STYLE.md)
 - Resolving problems with processes like [merge conflicts, squash commits, communicating with maintainers,](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#maintainers) and [triaging](https://github.com/hoodiehq/hoodie/blob/master/TRIAGING.md)
-- Push and write :fork_and_knife: [pull requests](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#pull-requests)
+- Push and write [pull requests](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#pull-requests)
 
 ## :calendar: How do I join your next event?
 Check out our latest meetup RSVP information here: https://www.meetup.com/Women-Who-Code-Portland
 
-## :computer: Do I have to do anything before I start?
-1. **Code editor**: Install a code editor. If you do not have one already, here’s our favorite: [VS Code](https://code.visualstudio.com/).
+## :computer: How do I get started?
+1. **Code editor**: Install a code editor. If you don't have one already, we recommend: [VS Code](https://code.visualstudio.com/).
 2. **GitHub**: Make a GitHub account and install `git`.
-3. **Code of Conduct**: Read our [Code of Conduct](https://github.com/WomenWhoCode/guidelines-resources/blob/master/code_of_conduct.md)
-4. **RSVP & Logistics**: RSVP on [Meetup.com](https://www.meetup.com/Women-Who-Code-Portland) to get the latest updates on the meetup location (parking, Metro access) and all those logistical details.
+3. **RSVP & Logistics**: RSVP on [Meetup.com](https://www.meetup.com/Women-Who-Code-Portland) to get the latest updates on the meetup location (parking, Metro access) and all those logistical details.
+4. **Code of Conduct**: Read our [Code of Conduct](https://github.com/WomenWhoCode/guidelines-resources/blob/master/code_of_conduct.md).
 <!-- 5. **Check out the Past Meetup Notes**: All of our previous events' ⚡ 📻 Nightly Notes are archived here: https://github.com/wwcodeportland/open-source-study-nights/issues?utf8=%E2%9C%93&q=label%3Astudy-night-notes+  -->
 
-## :city_sunset: How do I get to the downtown meetup?
+## :city_sunset: How do I get to the meetup?
 - **Address:** InVision: 111 SW 5th Ave, 36th Floor, Portland, OR, 97210
 - **Nearest MAX station:** Red or Blue Line - Pioneer Square Station
 - **Parking:** Parking is a challenge in downtown. We recommend the MAX, streetcar, carpool and voracious free parking-spot hunting.
@@ -32,10 +30,9 @@ Check out our latest meetup RSVP information here: https://www.meetup.com/Women-
 
 ## :computer: First time? Begin here:
 * For your first Pull Request @ WWC PDX: (Coming Soon)
-* For coding puzzles: Join our Exercism team: (Coming Soon)
 * For project ideas: [Check out our resources page.](./docs/project-ideas.md)
 
-## :zap: Open Source projects we have contributed to at the meetup:
+## :zap: Open Source projects we recommend for beginners:
 
 | [Exercism](https://github.com/exercism/exercism.io)  | [Hoodie](https://github.com/hoodiehq/) |  [Homebrew](https://github.com/homebrew) |
 | ------------- | ------------- |------------- |
@@ -92,8 +89,8 @@ Check out our latest meetup RSVP information here: https://www.meetup.com/Women-
 
 ## :raised_hands: Help!
 1. When you are stuck on code: Make an issue on what you‘re stuck on here - https://github.com/wwcodeportland/open-source-study-nights/issues
-2. When you are lost, on your way and stuck in traffic and need to let someone know about something, left something at the venue, confused about parking, leave a comment on the https://www.meetup.com/Women-Who-Code-Portland event invite for that night or message Keeley on Twitter [@keeleyhammmond](https://twitter.com/keeleyhammond).
-3. When you have questions/concerns about code of conduct, things like that, talk to Keeley or Alex by messaging them on Meetup.com.
+2. When you are lost, on your way and stuck in traffic and need to let someone know about something, left something at the venue, confused about parking, leave a comment on the https://www.meetup.com/Women-Who-Code-Portland event invite for that night or message Keeley on Twitter for an immediate response [@keeleyhammmond](https://twitter.com/keeleyhammond).
+3. When you have questions/concerns about code of conduct or other topics, talk to Keeley or Alex by messaging us on Meetup.com.
 
 ## :pray: Thanks
-Many thanks to our friends at FullStack LA for letting us use this as a template for our open source study nights!
+Many thanks to Machiko Yasuda and [FullStack LA](https://github.com/fullstackla/pairing-meetup) for providing this as a template for our open source study nights!
