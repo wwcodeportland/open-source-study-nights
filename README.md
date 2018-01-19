@@ -24,6 +24,7 @@ Check out our latest meetup RSVP information here: https://www.meetup.com/Women-
 
 ## :city_sunset: How do I get to the meetup?
 - **Address:** InVision: 111 SW 5th Ave, 36th Floor, Portland, OR, 97210
+- Be sure to get on one of the elevators that goes to the 36th floor
 - **Nearest MAX station:** Red or Blue Line - Pioneer Square Station
 - **Parking:** Parking is a challenge in downtown. We recommend the MAX, streetcar, carpool and voracious free parking-spot hunting.
 - Thank you to our location sponsor, [InVision](https://invisionapp.com)!
