@@ -15,4 +15,4 @@ A common problem that we hear from attendees is not knowing what projects or lib
 * [Leaflet:](https://github.com/Leaflet/Leaflet) A plug-in for custom maps. Look for the label `easy fix`.
 * [Operation CODE:](https://github.com/OperationCode) An open source organization that helps veterans find jobs in technology. Look for `beginner friendly`(Note: The link I included here is just for the front-end. They also have an excellent starter's guide here.)
 * [Tensorflow:](https://github.com/tensorflow/tensorflow) An open source machine learning platform. They don't have beginner-friendly labels, but have a strong Code of Conduct and support a variety of languages.
-* [Crowdrescue SCOT](https://github.com/ArtOfCode-/SCOT) A Ruby on Rails project for crowdsourcing disaster responses. 
+* [Crowdrescue SCOT](https://github.com/ArtOfCode-/SCOT) A Ruby on Rails project for crowdsourcing disaster responses. Live site [here](https://scot.crowdrescuehq.org/).
