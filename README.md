@@ -84,6 +84,10 @@ Check out our latest meetup RSVP information here: https://www.meetup.com/Women-
             <td><a href="https://github.com/zsh-users/zsh-completions">zsh auto completion scripts</a></td>
             <td>Zsh</td>
         </tr>
+        <tr>
+            <td><a href="https://www.joshmatthews.net/bugsahoy/">Website to search opened bugs in Mozilla Projects. This is maintained by Josh Matthews.</a></td>
+            <td>You can search bugs by your language of choice.</td>
+        </tr>
     </tbody>
 </table>
 
